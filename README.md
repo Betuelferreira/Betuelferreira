@@ -1,4 +1,4 @@
-### Oi! Eu sou o Betuel 😁
+### Olá! Eu sou o Betuel 😁
 
 <div>
   <a href="https://github.com/Betuelferreira">
